@@ -3,3 +3,9 @@ config.ini
 token.pickle
 readme01.txt
 readme02.txt
+.idea/misc.xml
+.idea/modules.xml
+.idea/public_tapo_retriever.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.ipynb_checkpoints/main-checkpoint.py
